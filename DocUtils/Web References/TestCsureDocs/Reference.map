@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://www.coversure.co.uk/secure/chris/utils/Doc_Utils/csuredocs.asmx?wsdl" filename="csuredocs.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="https://www.coversure.co.uk/secure/chris/utils/Doc_Utils/csuredocs.asmx?disco" filename="csuredocs.disco" />
+  </Results>
+</DiscoveryClientResultsFile>

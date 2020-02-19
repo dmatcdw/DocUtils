@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DocUtils_uk_co_coversure_www_CsureDocs" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://www.coversure.co.uk/secure/ws/utils/csuredocs.asmx</Value>
+    </Setting>
+    <Setting Name="DocUtils_LocalCsureDocs_CsureDocs" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/testenv/utilities/doc_utils/csuredocs.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
